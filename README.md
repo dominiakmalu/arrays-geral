@@ -1,2 +1,1 @@
-# PROJETOS-1-2
-Projetos do segundo semestre.
+Exercícios e alguns conteúdo de de arrays
